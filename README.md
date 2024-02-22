@@ -21,3 +21,11 @@ Offline functionality: Works without an internet connection, protecting sensitiv
 Integration with existing tools: Integrates with code editors, IDEs, and debugging tools for a smooth workflow.
 
 Multilingual support: Supports various programming languages and spoken languages.
+
+![text-to-speech](https://github.com/998minu/Text-to-speech/assets/84757349/f0a17b1e-0435-42d3-b235-090b31d275fd)
+
+
+
+
+
+
